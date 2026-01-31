@@ -43,7 +43,7 @@ pgribble [at] uwo [dot] ca
 - [Well Being](https://github.com/paulgribble/labmanual/blob/main/301_well-being.md)
 - [Need Help?](https://github.com/paulgribble/labmanual/blob/main/302_need-help.md)
 
-[Acknowledgements](https://github.com/paulgribble/labmanual/blob/main/999_acknowledgements.md)
+[Acknowledgements](https://github.com/paulgribble/labmanual/blob/main/900_acknowledgements.md)
 
 
 
