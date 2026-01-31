@@ -1,0 +1,5 @@
+# Equity, Diversity, & Inclusion
+
+We are committed to supporting and promoting equity, diversity, and inclusion. Diversity is not a challenge to be overcome or a difficulty to be tolerated, it is a tremendous source of strength. We recognize that we are stronger when we embrace different backgrounds, perspectives and approaches, in our lab and in our community. Everyone is welcome and will be supported in our lab, regardless of race, nationality, religion, gender, sexual orientation, age, or disability. Together with Western, the Brain and Mind Institute at Western, and BrainsCAN, we are dedicated to increasing the inclusion and advancement of women, and other under-represented groups in science and engineering. In our lab we commit to be respectful of each other. We do not tolerate harassment, belittlement, bullying, or discrimination of any kind. We are committed to learning more about how to promote the principles of equity, diversity, and inclusion both in our lab, on campus, and in the scientific community.
+
+<img src="progressflag.png" width="15%">
