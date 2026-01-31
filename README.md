@@ -21,14 +21,15 @@ pgribble [at] uwo [dot] ca
 - [Being Present](https://github.com/paulgribble/labmanual/blob/main/101_being-present.md)
 - [General Expectations](https://github.com/paulgribble/labmanual/blob/main/102_general-expectations.md)
 - [Specific Expectations](https://github.com/paulgribble/labmanual/blob/main/103_specific-expectations.md)
-- [Individual Meetings](https://github.com/paulgribble/labmanual/blob/main/104_individual-meetings.md)
-- [My Feedback To You](https://github.com/paulgribble/labmanual/blob/main/105_my-feedback-to-you.md)
-- [Lab Meetings](https://github.com/paulgribble/labmanual/blob/main/106_lab-meetings.md)
-- [Lab Rooms](https://github.com/paulgribble/labmanual/blob/main/107_lab-rooms.md)
-- [Research Ethics](https://github.com/paulgribble/labmanual/blob/main/108_research-ethics.md)
-- [Software & Computers](https://github.com/paulgribble/labmanual/blob/main/109_software-and-computers.md)
-- [Conference Travel](https://github.com/paulgribble/labmanual/blob/main/110_conference-travel.md)
-- [Purchasing & Lab Supplies](https://github.com/paulgribble/labmanual/blob/main/111_purchasing-and-lab-supplies.md)
+- [Use of AI](https://github.com/paulgribble/labmanual/blob/main/104_use-of-ai-tools.md)
+- [Individual Meetings](https://github.com/paulgribble/labmanual/blob/main/105_individual-meetings.md)
+- [My Feedback To You](https://github.com/paulgribble/labmanual/blob/main/106_my-feedback-to-you.md)
+- [Lab Meetings](https://github.com/paulgribble/labmanual/blob/main/107_lab-meetings.md)
+- [Lab Rooms](https://github.com/paulgribble/labmanual/blob/main/108_lab-rooms.md)
+- [Research Ethics](https://github.com/paulgribble/labmanual/blob/main/109_research-ethics.md)
+- [Software & Computers](https://github.com/paulgribble/labmanual/blob/main/110_software-and-computers.md)
+- [Conference Travel](https://github.com/paulgribble/labmanual/blob/main/111_conference-travel.md)
+- [Purchasing & Lab Supplies](https://github.com/paulgribble/labmanual/blob/main/112_purchasing-and-lab-supplies.md)
 
 ## Professionalism
 
