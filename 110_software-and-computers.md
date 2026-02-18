@@ -35,3 +35,9 @@ We typically write papers and grants in [Google Docs](https://docs.google.com/) 
 Choose a reference manager like [Zotero](https://www.zotero.org) or [Paperpile](https://paperpile.com/) and sign up for a storage account. Maintain a database of papers that you have read.
 
 Both [Google Docs](https://docs.google.com/) and [Overleaf](https://www.overleaf.com/), have the ability to import or link to shared folders or shared collections in Zotero or Paperpile.
+
+## Programming Languages
+
+Some of our equipment (e.g. the KINARM robots) run on MATLAB. Other things (e.g. the fingerbox in the Diedrichsen lab) runs on C++. Other things (e.g. the hummingbird finger device) has a Python interface. Some of our speech motor learning experimental paradigms run on MATLAB. We frequently do data analyses using Python since it's open-source and free, and in that sense better for open-science practices (sharing data and code). Sometimes using R makes sense.
+
+Part of learning to do modern scientific research is the realization that you will likely have to be "multilingual" for programming languages. It's rational to have a primary "first language" as it were, to focus on being an expert in one, but it's likely you will have to pick up skills in others as well. This is nothing to be afraid of --- this is great, this is fun, this is a superpower!
