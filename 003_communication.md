@@ -1,6 +1,6 @@
 # Communication
 
-We use the lab Slack [sensorimotor.slack.com](sensorimotor.slack.com) for communication within the lab and with other members of the Sensorimotor Superlab (the Gribble, Pruszynski, and Diedrichsen labs).
+We use the lab Slack [sensorimotor.slack.com](https://sensorimotor.slack.com) for communication within the lab and with other members of the Sensorimotor Superlab (the Gribble, Pruszynski, and Diedrichsen labs).
 
 ## After-hours communication
 

@@ -14,7 +14,7 @@ A critically important general principle is that you should take ownership of yo
 
 I already have a job. I already have a MSc and a PhD. You are not doing your research "for me", you are not my employee (unless of course you are a paid staff member in which case, yes you are an employee).
 
-Note that in some labs, trainees are recruited specifically to work on particular projects that appear in funded research grants. This is typically not the approach in my lab. While it may be true that I have a general research program in my lab that is supported by research grants that contain proposals about particular experiments... but my approach is usually that as long as the research is in the same general realm and as long as we both find it exciting and relevant, I will support it and I will support you. We will work together to specify a research project that is compatible with the ongoing work in the lab, that is likely to be of broad interest to others in the field of sensorimotor neuroscience, and that is interesting to you and to me.
+Note that in some labs, trainees are recruited specifically to work on particular projects that appear in funded research grants. This is typically not the approach in my lab. It may be true that I have a general research program in my lab that is supported by research grants that contain proposals about particular experiments... but my approach is usually that as long as the research is in the same general realm and as long as we both find it exciting and relevant, I will support it and I will support you. We will work together to specify a research project that is compatible with the ongoing work in the lab, that is likely to be of broad interest to others in the field of sensorimotor neuroscience, and that is interesting to you and to me.
 
 ## Replication
 
@@ -34,7 +34,7 @@ You should be reading papers often, at least one paper per week if not more. I a
 
 Please come to me if you are not sure what you should be doing day to day. Let me know if you are concerned about the progress of your project.
 
-**You should expect me** to make myself available to you at regular intervals to look at data, talk about your experiment, talk about papers in the literature, etc. Sometimes this could me multiple times a day, a week, and sometimes this may be once every week or two, depending on the stage of your project, and your experience in the lab. You can expect me to provide critical feedback of your research in a supportive manner. I will do my best to support your work by seeking out research grants to fund the lab. I will support your travel to conferences to present your research. You can expect me to do my best to promote a positive, supportive, collaborative research environment in the lab.
+**You should expect me** to make myself available to you at regular intervals to look at data, talk about your experiment, talk about papers in the literature, etc. Sometimes this could be multiple times a day, a week, and sometimes this may be once every week or two, depending on the stage of your project, and your experience in the lab. You can expect me to provide critical feedback of your research in a supportive manner. I will do my best to support your work by seeking out research grants to fund the lab. I will support your travel to conferences to present your research. You can expect me to do my best to promote a positive, supportive, collaborative research environment in the lab.
 
 ## What is grad school?
 

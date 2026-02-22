@@ -2,7 +2,7 @@
 
 Travel to conferences is dependent from year to year on our lab budget. Generally our model is that to attend a conference, your research project should be sufficiently developed such that it makes sense to present a poster or give a talk. This is something that we will decide together.
 
-We generally do no submit "prospective" abstracts in which we promise either data or findings that we do not already have obtained at the time of submitting the abstract. 
+We generally do not submit "prospective" abstracts in which we promise either data or findings that we do not already have obtained at the time of submitting the abstract. 
 
 **By the abstract submission deadline, we must have enough data collected, and enough analysis complete, that we are very confident in the results and findings.**
 

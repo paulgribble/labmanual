@@ -24,4 +24,4 @@ For urgent matters or emergencies related to facilities (e.g. a water leak) plea
 
 **If there is a medical emergency, phone 911 immediately**.
 
-If you are concerned that some kind of **serious security incident** is occurring, leave the area first and then and phone 911 immediately.
+If you are concerned that some kind of **serious security incident** is occurring, leave the area first and then phone 911 immediately.

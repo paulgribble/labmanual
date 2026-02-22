@@ -12,7 +12,7 @@ The Office of Research Integrity at the U.S. Dept. of Health and Human Services 
 > 
 > (d) Research misconduct does not include honest error or differences of opinion.
 
-Scientific misconduct of any kind will not be tolerated in our lab. We are in a priviledged position, to spend our time working towards understanding how the world works. We have a responsibility to conduct ourselves with integrity and transparency.
+Scientific misconduct of any kind will not be tolerated in our lab. We are in a privileged position, to spend our time working towards understanding how the world works. We have a responsibility to conduct ourselves with integrity and transparency.
 
 We will treat scientific misconduct of any kind very seriously, and you will face severe consequences. Do not do it.
 
