@@ -1,6 +1,6 @@
 # Use of AI Tools in Your Scientific Work
 
-Artificial intelligence tools such as large language models have become widely available and can serve useful functions similar to spell checkers, grammar checkers, and even evaluate writing style. Using these tools to polish prose, catch typographical errors, or improve the clarity of sentences *you have already written* is generally acceptable.
+Artificial intelligence tools such as large language models have become widely available and can serve useful functions similar to spell checkers, grammar checkers, and even evaluate writing style. Using these tools to polish prose, catch typographical errors, or improve the clarity of sentences *you have already written* is generally acceptable. I sometimes use Claude Code to check this lab manual for spelling mistakes, typos, and grammatical errors.
 
 However, in our lab it is not appropriate to use AI tools to perform the intellectual work that lies at the heart of our work as scientists. This includes synthesizing ideas from the literature, generating research questions or hypotheses, critically evaluating papers, drafting the content of a research paper, or grant proposal, or formulating arguments and interpretations. These kinds of tasks are precisely what you are here to learn to do, as scientists in training.
 
