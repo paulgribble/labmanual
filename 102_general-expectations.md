@@ -28,7 +28,11 @@ Something to do immediately when you start is to choose a reference manager like
 
 ## Staying on track
 
-**I expect you** to please come to me if you are not sure what you should be doing day to day. Let me know if you are concerned about the progress of your project. Please come to me often with data. Show me plots. Show me sample signals. Get feedback from me and others about how the project is progressing. You should look at your data often, in particular to make sure that the various signals (kinematics, forces, EMG, EEG, etc) look as they should, and to make sure that participants are performing the task as we require. The data are what this is all about.
+**I expect you** to come to me often with data. Show me plots. Show me sample signals. Get feedback from me (and others) about how the project is progressing. You should look at your data often, in particular to make sure that the various signals (kinematics, forces, EMG, EEG, etc) look as they should, and to make sure that participants are performing the task as we require. The data are what this is all about. Show me data! I love looking at data with you and figuring out what it may or may not be showing us.
+
+You should be reading papers often, at least one paper per week if not more. I am here to help point you to the papers that are most important and relevant. Come to me with questions about the papers you are reading. It's one of the best ways we can generate ideas together.
+
+Please come to me if you are not sure what you should be doing day to day. Let me know if you are concerned about the progress of your project.
 
 **You should expect me** to make myself available to you at regular intervals to look at data, talk about your experiment, talk about papers in the literature, etc. Sometimes this could me multiple times a day, a week, and sometimes this may be once every week or two, depending on the stage of your project, and your experience in the lab. You can expect me to provide critical feedback of your research in a supportive manner. I will do my best to support your work by seeking out research grants to fund the lab. I will support your travel to conferences to present your research. You can expect me to do my best to promote a positive, supportive, collaborative research environment in the lab.
 
