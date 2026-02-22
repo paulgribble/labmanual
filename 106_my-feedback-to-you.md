@@ -1,6 +1,6 @@
 # My Feedback To You
 
-I will try my best to provide feedback to you quickly—feedback about manuscript drafts, abstracts, presentations, data analyses, etc. I'm always happy to help out when you are having difficulties with your work but do remember that part of your training is to work through these kinds of challenges. Do come to me after you've made a solid attempt at a solution, and we can work through it together.
+I will try my best to provide feedback to you quickly, including feedback about manuscript drafts, abstracts, presentations, data analyses, etc. I'm always happy to help out when you are having difficulties with your work but do remember that part of your training is to work through these kinds of challenges. Do come to me after you've made a solid attempt at a solution, and we can work through it together.
 
 My goal is to get you feedback on short documents within 1–3 days. Short documents are things like Abstracts, or a single section of a manuscript (e.g. an Introduction section). For long documents (an entire manuscript, or an entire presentation) my goal is 1–2 weeks. Typically I am fast with providing feedback.
 
