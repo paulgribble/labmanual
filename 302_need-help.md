@@ -1,6 +1,6 @@
 # Need Help?
 
-Western has a number of services available for trainees including Health Services, Housing Services, an Equity & Human Rights office, Disability Services, Indigenous Services, and Pride Western. Here is a link to Western’s [Wellness & Well-being](https://www.uwo.ca/health/) site.
+Western has a number of services available for trainees including Health Services, Housing Services, an Equity & Human Rights office, Disability Services, Indigenous Services, and Pride Western. Here is a link to Western's [Wellness & Well-being](https://www.uwo.ca/health/) site.
 
 The Student Health Services office has a variety of services including medical appointments with Physicians, Birth Control information, Counselling & Psychiatry, Allergy injections & immunization (including annual flu shots), sexually transmitted disease testing, wellness activities (meditation, tai chi, yoga), Sports-Medicine Clinic (the [Fowler-Kennedy Sports Medicine Clinic](http://www.fowlerkennedy.com/), which provides sports-medicine appointments with Physicians & Surgeons, as well as Physiotherapy) and Crisis Intervention. I encourage you to take advantage of the services offered here, as needed. Please let me know if I can help you find the services you need on campus and elsewhere.
 

@@ -34,7 +34,7 @@ You **must** pursue research questions that interest and excite **you**. Do not 
 
 You are also expected to take advantage of the knowledge and experience of your fellow lab members: graduate students, postdoctoral fellows, research staff, and volunteers. We are all here to help each other learn. We are all busy but part of our lab culture is to foster collaboration and mentoring so please do not hesitate to approach fellow lab members for help. We are not here to do your research or solve your research-related problems but we can and should be able to show you where to look for solutions. On this point: it is not a competition. We don't draw boundaries around our ideas. We include each other as co-authors when scientifically appropriate. Including others on your project does not diminish your accomplishments. We help each other in this lab.
 
-You are responsible for applying for funding (e.g. OGS, NSERC, CIHR, etc) when you are eligible to do so. In the absence of external awards I will contribute to your funding package using funds from my research grants, providing that you take on teaching assistant positions to partially offset the funds required.
+You are responsible for applying for funding (e.g. OGS, NSERC, CIHR, etc) when you are eligible to do so. In the absence of external awards I will contribute to your funding package using funds from my research grants, providing that you take on teaching assistant positions (provided you are eligible) to partially offset the funds required.
 
 ## Postdoctoral Fellows
 

@@ -18,7 +18,7 @@ Note that in some labs, trainees are recruited specifically to work on particula
 
 ## Replication
 
-Often the place to begin when you start in the lab is to replicate a previously published finding. This is a great way to familiarize yourself with the lab equipment and with the techniques we use, in the context of an experiment for which we know (usually) what the results ought to look like. It’s also a great “way in” to the scientific literature around a topic we have experience with (including papers published by our lab members). Replication is by no means a waste of time. First, it's an important scientific contribution. Second, a novel scientific question is often based on an existing paradigm, and before assessing whether a novel effect exists, it is important to verify that the paradigm itself is capable of detecting the novel effect, whatever that may be. Replication is a great way of doing this.
+Often the place to begin when you start in the lab is to replicate a previously published finding. This is a great way to familiarize yourself with the lab equipment and with the techniques we use, in the context of an experiment for which we know (usually) what the results ought to look like. It's also a great "way in" to the scientific literature around a topic we have experience with (including papers published by our lab members). Replication is by no means a waste of time. First, it's an important scientific contribution. Second, a novel scientific question is often based on an existing paradigm, and before assessing whether a novel effect exists, it is important to verify that the paradigm itself is capable of detecting the novel effect, whatever that may be. Replication is a great way of doing this.
 
 ## Reading papers
 
@@ -40,15 +40,15 @@ Please come to me if you are not sure what you should be doing day to day. Let m
 
 Here are some excerpts from a Twitter thread by Dr. Chanda Prescod-Weinstein on what research and grad school are, and are not, and how to set up the right expectations to succeed:
 
-> The hardest phase transition for PhD students, I think, is that you are supposed to be working toward competent intellectual independence. That means that your advisor doesn’t solve the problem: you do. You write your grant and fellowship proposals.
+> The hardest phase transition for PhD students, I think, is that you are supposed to be working toward competent intellectual independence. That means that your advisor doesn't solve the problem: you do. You write your grant and fellowship proposals.
 >
-> And in the case of the actual science: it’s not a problem set. There are often not step by step instructions for how to solve the problem. You are finding the instructions and implementing them and sometimes your first through fourth tries fail and it’s no one’s fault.
+> And in the case of the actual science: it's not a problem set. There are often not step by step instructions for how to solve the problem. You are finding the instructions and implementing them and sometimes your first through fourth tries fail and it's no one's fault.
 >
-> Of course, as in all professions, sometimes your boss \[advisor\] is an asshole. But sometimes it’s just hard and not because you’re being abused.
+> Of course, as in all professions, sometimes your boss \[advisor\] is an asshole. But sometimes it's just hard and not because you're being abused.
 >
-> If working at the boundaries of what we know — being confused often and working hard to reduce the confusion — doesn’t sound like fun work, research may not be a fit for you, no matter how well you are being compensated.
+> If working at the boundaries of what we know — being confused often and working hard to reduce the confusion — doesn't sound like fun work, research may not be a fit for you, no matter how well you are being compensated.
 >
-> Research is mostly the part where you are doing the work, not mostly the part where you are presenting known results. If you mostly enjoy presenting neatly packaged results, that’s a different kind of problem solving: scicomm is great and challenging and different from research.
+> Research is mostly the part where you are doing the work, not mostly the part where you are presenting known results. If you mostly enjoy presenting neatly packaged results, that's a different kind of problem solving: scicomm is great and challenging and different from research.
 >
 > Research requires a kind of confidence in your own logic, that you can reason your way to a solution because the solutions are a matter of reasoning. So it requires a flexible intelligence mindset: you can learn the techniques you need to know.
 >

@@ -18,7 +18,7 @@ Please tell Paul right away if a piece of equipment is damaged or is not functio
 
 ## Emergencies
 
-For urgent matters or emergencies related to facilities (e.g. a water leak) please contact me and/or Florence, Denise, or Haitao right away.
+For urgent matters or emergencies related to facilities (e.g. a water leak) please contact me and/or Derek, Denise, or Haitao right away.
 
 **If there is smoke or a fire**, leave the building, pull a fire alarm if you pass one on the way out, and phone 911 immediately.
 
