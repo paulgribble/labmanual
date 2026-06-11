@@ -10,6 +10,8 @@ Being present in the lab counts for a lot. You will bump into people, and conver
 
 The other phenomenon that being present in the lab helps facilitate is a rapid feedback loop for problem-solving. When you run into a problem, whether it's a software/coding issue, or an equipment issue, a sticking point as you're writing a manuscript, or even a conceptual roadblock, something you need feedback on, if you are physically here, you can walk over to a lab-mate, or me, and ask. Maybe we have the answer, maybe not, at least we can point you in a fruitful direction. Often this means problems can be solved within seconds/minutes. If we are all remote, it could be hours or even days (or even weeks). This is not the way our lab operates.
 
+Being in the lab every day also facilitates tinkering with the equipment, and with data. Playing around with the various equipment we have in the labs is a great way to learn how each system works. It also gives you the opportunity to think up new ideas, new experiments, and lets you try them out. This is how many new studies/papers are born, in the lab, tinkering around.
+
 Work in the lab. Make it a general habit to come to the lab every weekday and do the majority of your work in the lab. Of course there may be exceptions, e.g. times when you would like to work at home, e.g. on writing, but even then, doing it in the lab can be very beneficial, as there are others around to get feedback from, immediately.
 
 As your thesis supervisor I am best able to mentor you in person.
