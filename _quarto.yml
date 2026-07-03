@@ -50,4 +50,4 @@ website:
 format:
   html:
     theme: flatly
-    toc: false
+    toc: true
