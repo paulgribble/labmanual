@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gribble Lab Manual"
+  repo-url: https://github.com/paulgribble/labmanual
+  repo-actions: [edit, issue]
+  page-footer: 
+    left: "© 2026 Gribble Lab, released under the <a href='https://creativecommons.org/licenses/by/4.0/'>CC BY 4.0 license</a>"
+    right: "Built with <a href='https://quarto.org'>Quarto</a>"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Administrivia"
+        contents:
+          - 000_contact-information.md
+          - 001_contacting-me.md
+          - 002_onboarding.md
+          - 003_communication.md
+          - 900_acknowledgements.md
+      - section: "The Work"
+        contents:
+          - 100_lab-culture.md
+          - 101_being-present.md
+          - 102_general-expectations.md
+          - 103_specific-expectations.md
+          - 104_use-of-ai-tools.md
+          - 105_individual-meetings.md
+          - 106_my-feedback-to-you.md
+          - 107_lab-meetings.md
+          - 108_lab-rooms.md
+          - 109_research-ethics.md
+          - 110_software-and-computers.md
+          - 111_conference-travel.md
+          - 112_purchasing-and-lab-supplies.md
+      - section: "Professionalism"
+        contents:
+          - 200_equity-diversity-inclusion.md
+          - 201_conflict-resolution.md
+          - 202_egregious-behaviour.md
+          - 203_scientific-misconduct.md
+      - section: "Staying Well"
+        contents:
+          - 300_work-life-balance.md
+          - 301_well-being.md
+          - 302_need-help.md
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false

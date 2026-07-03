@@ -1,0 +1,13 @@
+---
+format:
+  html:
+    page-layout: full
+---
+
+# Welcome to the Gribble Lab Manual
+
+- [lab manual URL](https://labmanual.gribblelab.org)
+- [GitHub repo](https://github.com/paulgribble/labmanual)
+- [Gribble Lab Homepage](https://gribblelab.org)
+
+
