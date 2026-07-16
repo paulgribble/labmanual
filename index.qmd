@@ -6,8 +6,7 @@ format:
 
 # Welcome to the Gribble Lab Manual
 
-- [lab manual URL](https://labmanual.gribblelab.org)
-- [GitHub repo](https://github.com/paulgribble/labmanual)
-- [Gribble Lab Homepage](https://gribblelab.org)
+The URL for this lab manual is [https://labmanual.gribblelab.org](https://labmanual.gribblelab.org)
 
+The URL for the Gribble Lab website is [https://gribblelab.org](https://gribblelab.org)
 
