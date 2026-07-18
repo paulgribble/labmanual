@@ -10,3 +10,6 @@ The URL for this lab manual is [https://labmanual.gribblelab.org](https://labman
 
 The URL for the Gribble Lab website is [https://gribblelab.org](https://gribblelab.org)
 
+The sidebar on the left hand side of the page contains a list of sections.
+
+Please get in touch if you have any questions or suggestions for changes.
