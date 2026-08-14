@@ -1,15 +1,9 @@
----
-format:
-  html:
-    page-layout: full
----
-
-# Welcome to the Gribble Lab Manual
+# Welcome {.unnumbered}
 
 The URL for this lab manual is [https://labmanual.gribblelab.org](https://labmanual.gribblelab.org)
 
 The URL for the Gribble Lab website is [https://gribblelab.org](https://gribblelab.org)
 
-The sidebar on the left hand side of the page contains a list of sections.
+The sidebar on the left hand side of the page contains a list of chapters.
 
 Please get in touch if you have any questions or suggestions for changes.

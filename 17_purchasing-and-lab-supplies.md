@@ -1,4 +1,4 @@
-# Purchasing & Lab Supplies
+# Lab Supplies
 
 All purchases using research accounts must comply with both University and Tri-Council rules about eligible expenses. If there is any doubt, ask me. The simple rule is, all purchases must be directly related to research activities.
 
