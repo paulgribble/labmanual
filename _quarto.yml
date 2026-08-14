@@ -45,8 +45,8 @@ book:
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: united
+      dark: [darkly, united-dark.scss]
     toc: true
     respect-user-color-scheme: true
 

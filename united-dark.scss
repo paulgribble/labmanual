@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+// A dark counterpart to the `united` Bootswatch theme. Bootswatch doesn't ship
+// one, so this takes darkly's neutral dark palette (both are Bootstrap 5, so
+// the layout and component styling are identical to united's) and swaps in the
+// two things that make united itself: Ubuntu orange and the Ubuntu typeface.
+
+$orange:  #e95420;   // Ubuntu orange, same value united uses
+$primary: $orange;
+
+// Ubuntu orange on darkly's #222 background measures 4.4:1 — just under the
+// 4.5:1 AA threshold for body text. Buttons keep the true brand orange (white
+// text on a filled swatch is fine), while links use a lightened tint at 5.3:1.
+$link-color:       #ed7045;
+$link-hover-color: #f28a66;
+
+// Match united's button contrast handling, so filled buttons keep white text
+// rather than flipping to black the way darkly's higher threshold would.
+$min-contrast-ratio: 1.8;
+
+// Quarto's default sidebar background is a mid-grey (~44% lightness) that reads
+// as a bright slab next to darkly's #222 page. Sit it just above the page
+// instead, so the sidebar separates by a hair rather than by contrast.
+$sidebar-bg: #2b2b2b;
+
+// stylelint-disable-next-line value-keyword-case
+$font-family-sans-serif: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+// Overriding this before darkly's rules block means darkly imports Ubuntu
+// instead of Lato.
+$web-font-path: "https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap";
