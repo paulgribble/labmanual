@@ -1,4 +1,4 @@
-# Use of AI Tools in Your Scientific Work
+# Use of AI Tools
 
 Artificial intelligence tools such as large language models have become widely available and can serve useful functions similar to spell checkers, grammar checkers, and even evaluate writing style. Using these tools to polish prose, catch typographical errors, or improve the clarity of sentences *you have already written* is generally acceptable. I sometimes use Claude to check this lab manual for spelling mistakes, typos, and grammatical errors.
 

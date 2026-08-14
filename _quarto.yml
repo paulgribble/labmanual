@@ -6,6 +6,7 @@ website:
   title: "Gribble Lab Manual"
   repo-url: https://github.com/paulgribble/labmanual
   repo-actions: [edit, issue]
+  page-navigation: true
   page-footer: 
     left: "© 2026 Gribble Lab, released under the <a href='https://creativecommons.org/licenses/by/4.0/'>CC BY 4.0 license</a>"
     right: "Built with <a href='https://quarto.org'>Quarto</a>"
@@ -13,39 +14,31 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Administrivia"
-        contents:
-          - 000_contact-information.md
-          - 001_contacting-me.md
-          - 002_onboarding.md
-          - 003_communication.md
-          - 900_acknowledgements.md
-      - section: "The Work"
-        contents:
-          - 100_lab-culture.md
-          - 101_being-present.md
-          - 102_general-expectations.md
-          - 103_specific-expectations.md
-          - 104_use-of-ai-tools.md
-          - 105_individual-meetings.md
-          - 106_my-feedback-to-you.md
-          - 107_lab-meetings.md
-          - 108_lab-rooms.md
-          - 109_research-ethics.md
-          - 110_software-and-computers.md
-          - 111_conference-travel.md
-          - 112_purchasing-and-lab-supplies.md
-      - section: "Professionalism"
-        contents:
-          - 200_equity-diversity-inclusion.md
-          - 201_conflict-resolution.md
-          - 202_egregious-behaviour.md
-          - 203_scientific-misconduct.md
-      - section: "Staying Well"
-        contents:
-          - 300_work-life-balance.md
-          - 301_well-being.md
-          - 302_need-help.md
+      - 01_contact-information.md
+      - 02_contacting-me.md
+      - 03_onboarding.md
+      - 04_communication.md
+      - 05_lab-culture.md
+      - 06_being-present.md
+      - 07_general-expectations.md
+      - 08_specific-expectations.md
+      - 09_use-of-ai-tools.md
+      - 10_individual-meetings.md
+      - 11_my-feedback-to-you.md
+      - 12_lab-meetings.md
+      - 13_lab-rooms.md
+      - 14_research-ethics.md
+      - 15_software-and-computers.md
+      - 16_conference-travel.md
+      - 17_purchasing-and-lab-supplies.md
+      - 18_equity-diversity-inclusion.md
+      - 19_conflict-resolution.md
+      - 20_egregious-behaviour.md
+      - 21_scientific-misconduct.md
+      - 22_work-life-balance.md
+      - 23_well-being.md
+      - 24_need-help.md
+      - 25_acknowledgements.md
 
 format:
   html:
